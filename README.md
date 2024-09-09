@@ -17,7 +17,6 @@ This is a RESTful Task Manager API built using **Node.js**, **Express**, and **M
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
